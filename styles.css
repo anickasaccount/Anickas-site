@@ -1,0 +1,101 @@
+body {
+  background-color: #90A0DD;
+  margin:0;
+}
+
+.parallax {
+  background-image: url("/images/otters.png");
+  min-height: 250px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.otterText{height:500px;
+background-color:#90A0DD;
+margin-top:40px;}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7885CF;
+}
+
+.menu li {
+  float: right;
+}
+
+.menu li a {
+  display: inline-block;
+  color: #242D66;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Manrope";
+}
+
+li a:hover {
+  background-color: #90A0DD;
+}
+
+.menu {
+    position:fixed;
+    width:100%;
+    top:0;
+}
+
+
+
+p {
+      text-align: center;
+      color: #242D66;
+      font-family: "Manrope";
+
+}
+table {text-align: center;
+      color: #242D66;
+      font-family: "Manrope";
+      display: inline-block;
+}
+h1 {
+      text-align: center;
+      color: white;
+      font-size:42px;
+      font-family: "Sofia";
+      margin-top:100px;
+}
+h2 {
+      text-align: center;
+      color: white;
+      font-size:18px;
+      font-family: "Manrope";
+
+}
+.introduction img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 200px;
+    margin-bottom:30px;
+    margin-top:50px}
+
+
+.programming img {width:30%;display: inline-block;
+    margin-right:100px;
+    margin-bottom:30px;
+}
+.programming table,th,td {margin-bottom:150px;margin-left:10%;margin-right:10%;
+}
+
+.drawing img {width:65%;
+}
+
+.drawing table, .drawing th, .drawing td {margin-left:auto;margin-right:auto;
+  border: 20px solid  #90A0DD;
+  border-collapse: collapse;
+  background:#B1B8E3}
+
+
+
